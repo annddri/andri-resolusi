@@ -8,3 +8,4 @@ rencana belajar coding kedepannya :
   *front end untuk tampilan website, dls
   *back end untuk bagian dalam website, dls
 - mencoba memasukkan web kedalam internet
+ * menambahkan website pernikahan
