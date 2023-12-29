@@ -7,3 +7,4 @@ rencana belajar coding kedepannya :
 - memilih antara Front End atau Back End
   *front end untuk tampilan website, dls
   *back end untuk bagian dalam website, dls
+- mencoba memasukkan web kedalam internet
